@@ -55,7 +55,7 @@ Na primeira reunião, você conversa com quem escuta o seu negócio e com quem e
 
 ## 🧱 Com o que a gente constrói
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,java,spring,postgres,mysql,supabase,docker,githubactions,aws" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,java,spring,postgres,mysql,supabase,docker,githubactions" />
 
 ---
 
